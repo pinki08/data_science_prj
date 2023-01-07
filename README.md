@@ -1,1 +1,1 @@
-# data_science_prj
+This repo contains various project done using data science approach
